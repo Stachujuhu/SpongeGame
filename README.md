@@ -1,4 +1,4 @@
-# Spongo Game
+# Uwaga gowno w przedpokoju
 TODO:
 - Counter for fallen bobs
 - Limit the firerate for full auto
