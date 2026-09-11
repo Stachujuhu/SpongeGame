@@ -6,3 +6,4 @@ TODO:
 - Add score
 - Sponge collisions spawn prefab
 - kirk save from fall
+- reset spongo velocity on return
