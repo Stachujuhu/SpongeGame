@@ -8,3 +8,4 @@ TODO:
 - kirk save from fall
 - reset spongo velocity on return
 - increase clean time
+- do NOT ship the DoNotShip folder
