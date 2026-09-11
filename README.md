@@ -7,3 +7,4 @@ TODO:
 - Sponge collisions spawn prefab
 - kirk save from fall
 - reset spongo velocity on return
+- increase clean time
